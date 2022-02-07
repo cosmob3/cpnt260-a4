@@ -16,15 +16,14 @@ align-items: flex-end;
 }
 
 
-/* .btn {
+.btn {
   background-color: #E3170AFF;
   display: flex;
-  flex-direction: column;
   justify-content: center;
-  justify-items: center; */
-  
-
-/* } */
+  padding: 5px 5px;
+  border-radius: 8px;
+  width: 28ch;
+}
 
 a {
 color: pink;
