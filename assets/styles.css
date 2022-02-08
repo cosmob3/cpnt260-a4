@@ -7,12 +7,10 @@
 }
 
 .flex-col{
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: flex-end;
-
-
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
 }
 
 
@@ -23,6 +21,7 @@ align-items: flex-end;
   padding: 5px 5px;
   border-radius: 8px;
   width: 28ch;
+  font-size: 30px;
 }
 
 a {
@@ -33,4 +32,9 @@ transition: 300ms background-color;
 
 h1 {
   max-width: 50ch;
+  font-size: 35px;
+}
+
+p{
+  font-size: 25px;
 }
