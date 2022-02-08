@@ -22,7 +22,7 @@ TODO: **Work on Home Page Assignment**
 - X a call to action
 - X add form page and link to it
 - X add 3rd party api
-- Add Fonts Sheet
+
 
 
 Was having a really hard time adding a background image that is locally hosted. I lookede around and couldn't figure it out. 
@@ -35,4 +35,4 @@ Got the form up and running.
 
 Okay, linked the homepage with the form page. It's all working well. 
 
-Next, I want to add some font to make it look more attractive. 
+all done!
